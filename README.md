@@ -2,7 +2,7 @@
 - 👀 I’m interested in lots of stuff
 - 🌱 I’m currently learning Computer Programming
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me samantha_a_friday@yahoo.ca
+- 📫 How to reach me s.alexis.friday@gmail.com
 
 <!---
 AlexisDay/AlexisDay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
