@@ -3,19 +3,14 @@
     <head>
     <meta charset="utf-8">
         <title>The King of the Jungle</title>
-        <link> rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style.css">
         
-        <p>File name: splitImage.html</p>
-        <p>Author: Samantha Friday</p>       
-        <p>Date created: 10.22.2021</p>      
-        <p>Date modified:10.24.2021</p>
-        <p>Version: 0.1</p>
         <p>Description:<br>
-            example of a single images, original size, resize, aspect ratio<!/p
+            example of a single images, original size, resize, aspect ratio</p>
     </head>
     <body>
        <div class="wrapper">
-            <h1>Page 1</h1>
+            <h1>img</h1>
             <img src="img.jpg" alt="">
             
             <!h3><output><img></output></h3>
