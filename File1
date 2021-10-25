@@ -5,6 +5,7 @@
         <meta charset="utf-8">
         <heading>
         <title>Image</title>
+        </header>
         
         <p>File name: splitImage.html</p>
         <p>Author: Samantha Friday</p>       
@@ -16,13 +17,13 @@
       
     </head>
     <body>
-        <!-- all marked up content goes in the body -->
+       
         <header>
-            <h1>Image</h1>
+            <h1><img></h1>
         </header>
         <main> 
-            <img src="../images/home.png">
-            <h3>Example - Image <samp>&lt;img&gt;</samp></h3>
+            <img src="image.png" alt="an image">
+            <h3>Example - Image <samp><img></samp></h3>
             <figure>
                 <img src="../images/inspiration.jpg"><br>
                 <img src="../images/inspiration.jpg" width="200">
