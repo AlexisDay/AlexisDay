@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>=The King of the Jungle</title>
-        <meta charset="utf-8">
-        <heading>
-        <title>Image</title>
-        </header>
+    <meta charset="utf-8">
+        <title>The King of the Jungle</title>
+        <link> rel="stylesheet" href="style.css">
         
         <p>File name: splitImage.html</p>
         <p>Author: Samantha Friday</p>       
@@ -13,22 +11,19 @@
         <p>Date modified:10.24.2021</p>
         <p>Version: 0.1</p>
         <p>Description:<br>
-            example of a single images, original size, resize, aspect ratio</p>
-      
+            example of a single images, original size, resize, aspect ratio<!/p
     </head>
     <body>
-       
-        <header>
-            <h1><img></h1>
-        </header>
-        <main> 
-            <img src="image.png" alt="an image">
-            <h3>Example - Image <samp><img></samp></h3>
+       <div class="wrapper">
+            <h1>Page 1</h1>
+            <img src="img.jpg" alt="">
+            
+            <!h3><output><img></output></h3>
             <figure>
-                <img src="../images/inspiration.jpg"><br>
-                <img src="../images/inspiration.jpg" width="200">
-                <img src="../images/inspiration.jpg" height="200">
-                <img src="../images/inspiration.jpg" height="200" width="200">
+                <!img src="img.inspiration.jpg"><br>
+                <!img src="../images/inspiration.jpg" width="200">
+                <!img src="../images/inspiration.jpg" height="200">
+                <!img src="../images/inspiration.jpg" height="200" width="200">
                 <figcaption>
                     <strong>FIGURE 1:</strong> image inspiration.jpg<br> 1) original size 2) width=100 3) height=100 4) width=100 and height=100           
                 </figcaption>
