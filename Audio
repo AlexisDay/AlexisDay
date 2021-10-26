@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       
+        <title>Audio Files</title>
+        <meta charset="utf-8">
+        </head>
+    <body>
+       
+        <header>
+            <h1>Audio Files</h1>
+            <p>Click on the play button to play a sound:</p>
+        </header>
+        <main>     
+            <h3>Example &mdash; <samp>&lt;audio&gt;</samp> Element</h3>
+            <figure>
+ 
+                <figcaption>
+                    <strong>FIGURE 1:</strong> This example displays a sound file&hellip;
+                </figcaption>
+               
+                <audio controls>
+                <source src="http://bajcar.dev.fast.sheridanc.on.ca/www10049/web04/media/destiny.wav"
+                type="audio/wav">
+                <source src="http://bajcar.dev.fast.sheridanc.on.ca/www10049/web04/media/destiny.mp3"
+                type="audio/mpeg">
+                </audio> <controls>
+                                 
+            </figure>
+        </main>
+        <footer>
+        File name: Audio
+        Author: Samantha Friday
+        Date created: 10.23.2021
+        Date modified:10.24.2021
+        Version: 1.0
+        Description: example of including audio file, format wav
+            <address>2017-2018 @ Sheridan College, SYSt10049 Web Development</address>
+        </footer>
+    </body>
+</html>
