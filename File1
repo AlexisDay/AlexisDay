@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
     <meta charset="utf-8">
         <title>The King of the Jungle</title>
@@ -7,25 +7,29 @@
         
         <p>Description:<br>
             example of a single images, original size, resize, aspect ratio</p>
-    </head>
-    <body>
-       <div class="wrapper">
-            <h1>img</h1>
-            <img src="img.jpg" alt="">
-            
-            <h3><output><img></output></h3>
-            <figure>
-                <!img src="img.inspiration.jpg"><br>
-                <!img src="../images/inspiration.jpg" width="200">
-                <!img src="../images/inspiration.jpg" height="200">
-                <!img src="../images/inspiration.jpg" height="200" width="200">
-                <figcaption>
+    
+        <figure>
+        <figcaption>
                     <strong>FIGURE 1:</strong> image inspiration.jpg<br> 1) original size 2) width=100 3) height=100 4) width=100 and height=100           
                 </figcaption>
+
+       <div> class="wrapper">
+            <h1>img</h1>
+            <img src="img_inspiration.jpg" alt="Inspiration" width="200" height="200"><br>
+            <img src="img_lion1s1s.jpg" alt=lion1s1s width="200" height="200">
+            <img src="img_lions1s2s.jpg" alt=lion1s2s width="200" height="200">
+            <img src="img_lion1s3s.jpg" alt=lion1s3s width="200" height="200">
+            <img src="img_lion2s1s.jpg" alt=lion2s1s width="200" height="200">
+            <img src="img_lion2s2s.jpg" alt=lion2s2s width="200" height="200">
+            <img src="img_lion2s3s.jpg" alt=lion2s3s width="200" height="200">
+            <img src="img_lion3s1s.jpg" alt=lion3s1s width="200" height="200">
+            <img src="img_lion3s2s.jpg" alt=lion3s2s width="200" height="200">
+            <img src="img_lion3s3s.jpg" alt=lion3s3s width="200" height="200">
+               
+                 </div>
             </figure>
-        </main>
+     
         <footer>
             <address>2017-2018 @ Sheridan College, SYSt10049 Web Development</address>
         </footer>
-    </body>
 </html>
