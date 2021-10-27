@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <title>Youtube</title>
+        <meta charset="utf-8"
+       
+        </head>
+    <body>
+       
+        <header>
+            <h1>Youtube</h1>
+        </header>
+        <main>     
+            <h3>Example &mdash; <samp>&lt;iframe&gt;</samp> Element</h3>
+            <figure>
+ 
+                <figcaption>
+                    <strong>FIGURE 1:</strong> This example displays youtube video file, using iframe&hellip;
+                </figcaption>
+                <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+                </iframe>
+            </figure>
+        </main>
+        <footer>
+        File name: YouTube Insert
+        Author: Samantha Friday
+        Date created: 10.23.2021
+        Version: 1.0
+        Description:
+            example of including youtube video file, using iframe element
+            <address>2017-2018 @ Sheridan College, SYSt10049 Web Development</address>
+        </footer>
+    </body>
+</html>
