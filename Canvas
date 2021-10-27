@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        <meta charset="utf-8"> 
+        <title>Canvas</title>
+     
+    </head>
+   
+       
+        <header>
+            <h1>Canvas</h1>
+        </header>
+        
+            <h2>Canvas Image</h2> 
+            <figure>
+                <canvas id="myCanvas" width="200" height="100">
+                    Your browser does not support the HTML5 canvas tag.
+                </canvas>
+             
+                <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.beginPath(0,0);
+        ctx.arc(95,50,40,0,2*Math.PI);
+        ctx.moveTo(20, 20);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+        </script>      
+       
+        File name: canvas.html
+        Author: Samantha Friday
+        Date created: 10.23.2021
+        Version: 0.0
+        Description: picture of a circle using canvas
+            
+
+     
+                <figcaption>
+                    <strong>FIGURE 1:</strong> Circle with a line through it    
+                </figcaption>
+</figure>
+</html>
