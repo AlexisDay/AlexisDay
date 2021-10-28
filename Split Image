@@ -5,6 +5,7 @@
         <meta charset="utf-8">
         <title>Split Image</title>
         <link rel="stylesheet" href="images.css" type="text/css">
+          <a href="splitImage.html">SplitImage</a>
          
      <figure>
                 <img src="img_lion1s1s.jpg" alt=lion1s1s width="200" height="200">
