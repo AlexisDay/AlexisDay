@@ -4,8 +4,9 @@
         
         <meta charset="utf-8"> 
         <title>Canvas</title>
-     
-    </head>
+ <body>
+ <a href=Canvas.html></a>
+  
    
        
         <header>
@@ -41,6 +42,6 @@
         Description: picture of a circle using canvas
             <address>2017-2018 @ Sheridan College, SYSt10049 Web Development</address>
         </footer>
-            
-
+           
+</body>
 </html>
