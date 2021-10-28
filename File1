@@ -10,12 +10,12 @@
     
         <figure>
         <figcaption>
-                    <strong>FIGURE 1:</strong> image inspiration.jpg<br> 1) original size 2) width=100 3) height=100 4) width=100 and height=100           
+                    <strong>FIGURE 1:</strong>lion.jpg<br> 1) original size 2) width=100 3) height=100 4) width=100 and height=100           
                 </figcaption>
 
        <div> class="wrapper">
             <h1>img</h1>
-            <img src="img_inspiration.jpg" alt="Inspiration" width="200" height="200"><br>
+            
             <img src="img_lion1s1s.jpg" alt=lion1s1s width="200" height="200">
             <img src="img_lions1s2s.jpg" alt=lion1s2s width="200" height="200">
             <img src="img_lion1s3s.jpg" alt=lion1s3s width="200" height="200">
