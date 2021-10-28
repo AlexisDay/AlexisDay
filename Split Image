@@ -7,16 +7,16 @@
         <link rel="stylesheet" href="images.css" type="text/css">
          
      <figure>
-            <img src="img_lion1s1s.jpg" alt=lion1s1s width="200" height="200">
-                <img src="img_lion2s1s.jpg" alt=lion2s1s width="200" height="200">
-                <img src="img_lion3s1s.jpg" alt=lion3s1s width="200" height="200">
-                <br>
+                <img src="img_lion1s1s.jpg" alt=lion1s1s width="200" height="200">
                 <img src="img_lion1s2s.jpg" alt=lion1s2s width="200" height="200">
-                <img src="img_lion2s2s.jpg" alt=lion2s2s width="200" height="200">
-                <img src="img_lion3s2s.jpg" alt=lion3s2s width="200" height="200">
-                <br>
                 <img src="img_lion1s3s.jpg" alt=lion1s3s width="200" height="200">
+                <br>
+                <img src="img_lion2s1s.jpg" alt=lion2s1s width="200" height="200">
+                <img src="img_lion2s2s.jpg" alt=lion2s2s width="200" height="200">
                 <img src="img_lion2s3s.jpg" alt=lion2s3s width="200" height="200">
+                <br>
+                <img src="img_lion3s1s.jpg" alt=lion3s1s width="200" height="200">
+                <img src="img_lion3s2s.jpg" alt=lion3s2s width="200" height="200">
                 <img src="img_lion3s3s.jpg" alt=lion3s3s width="200" height="200">
            
            <figcaption>
